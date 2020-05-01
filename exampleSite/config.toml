@@ -76,14 +76,14 @@ URL = "contact"
 name = "Contact"
 weight = 6
 [params]
-author = "Themefisher"
+author = "GRG Professional Services Ltd."
 contact_form_action = "#"
-description = "This is meta description"
-email = "demo@email.com"
+description = "GRG | consultancy | creativity | communication | cooperation"
+email = "contact@grgprofessionalservices.uk"
 google_analitycs_id = ""
-location = "North Main Street,Brooklyn Australia"
+location = "London, United Kingdom"
 logo = "images/logo.png"
-mobile = "0124857985320"
+mobile = ""
 multi_author = false
 [params.gmap]
 enable = true
