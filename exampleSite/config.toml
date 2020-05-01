@@ -7,7 +7,7 @@ theme = "airspace-hugo"
 title = "GRG | consultancy | creativity | communication | cooperation"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2020 [GRG Professional Services Ltd.] All Rights Reserved"
+copyright = "Copyright &copy; 2020 GRG Professional Services Ltd. All Rights Reserved"
 home = "Home"
 languageCode = "en-gb"
 languageName = "En"
