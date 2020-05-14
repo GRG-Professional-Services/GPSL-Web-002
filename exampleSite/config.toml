@@ -44,6 +44,10 @@ URL = "about"
 name = "About"
 weight = 1
 [[menu.main]]
+URL = "about"
+name = "About"
+weight = 1
+[[menu.main]]
 URL = "pricing"
 name = "Pricing"
 parent = "Pages"
