@@ -98,8 +98,3 @@ mission_vision:
       temporibus eos sequi alias hic nemo.
 cta:
   enable: true
-menu:
-  main:
-    URL: about
-    name: About
-    weight: 1
