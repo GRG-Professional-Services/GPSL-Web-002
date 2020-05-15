@@ -14,11 +14,9 @@ about:
   title: About Us
   description: We strive to be the best and make awesome work.
   content: |-
-    GRG professional services are independent technical consultants, we offer consultancy in , automated document data extraction, digital mail room, invoice capture, Smart Process Application (SPA) and implementation services.
+    GRG professional services are independent technical consultants, providing bespoke development and process automation to improve business efficiency.
 
-    Kick Technic has over 16 year of experience in the design, development and implementation of Kofax and ABBYY software based capture and extraction solutions and smart process applications.
-
-    Kick Technic are experts in Kofax Total Agility, Kofax Capture, Kofax Transformation, Kofax Robotics Process Automation and ABBYY FlexiCapture.
+    We offer a complete solution (design, development, implementation and support) focussed in automated document data extraction, digital mail room, invoice capture, Smart Process Application (SPA) and eCommerce (incl. incentives).
   image: images/wrapper-img.png
 portfolio:
   enable: true
