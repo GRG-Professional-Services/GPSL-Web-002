@@ -12,7 +12,7 @@ banner:
 about:
   enable: true
   title: About Us
-  description: We strive to be the best and make awesome work.
+  description: We strive to be the best by producing first class solutions
   content: |-
     GRG professional services are independent technical consultants, providing bespoke development and process automation to improve business efficiency.
 
@@ -22,7 +22,7 @@ portfolio:
   enable: true
   bg_image: images/featue-bg.jpg
   title: WE BELIEVE IN GREAT IDEAS
-  content: ''
+  content: 'We think and work like a chisel, '
   button:
     enable: true
     label: View Works
