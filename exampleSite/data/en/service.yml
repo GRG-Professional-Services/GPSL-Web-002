@@ -40,8 +40,8 @@ service:
   service_item:
   - icon: ion-ios-lightbulb
     name: Consultancy
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    content: Consulting is a proces that helps us ensuring the solution, no matter
+      how small or big, is delivered efficiently
   - icon: ion-compass
     name: Web Design
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
