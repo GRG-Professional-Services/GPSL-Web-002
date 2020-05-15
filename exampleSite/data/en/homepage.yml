@@ -25,11 +25,9 @@ portfolio:
   content: |-
     Crafting Creative Consultancy through Communication and collaboration
 
-    A chisel in it's various forms used to shape/craft, our consultancy acts like a chisel to shape a solution.
-
-    We believe in great ideas...
+    Like a chisel in it's various forms is used to shape/craft, our consultancy acts like a chisel to shape a solution that it is scalable, efficient and fulfills all business requirements.
   button:
-    enable: true
+    enable: false
     label: View Works
     link: project
 service:
