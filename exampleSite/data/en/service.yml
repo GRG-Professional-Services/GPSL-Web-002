@@ -48,7 +48,7 @@ service:
       to meet the ever changing business needs
   - icon: ion-ios-cog
     name: Automation
-    content: With growth, business faces new challenges and it becomes imperitive
+    content: With growth, business faces new challenges and it becomes imperative
       to automate those repititive tasks to ensure business efficiency
   - icon: ion-ios-telephone
     name: Support
