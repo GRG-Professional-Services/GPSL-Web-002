@@ -44,23 +44,15 @@ service:
       how small or big, is delivered efficiently
   - icon: ion-code
     name: Development
-    content: We understand how important it is to meet the ever changing business
-      needs, our bespoke development solutions are delivered by highly trained experts
+    content: Our bespoke development solutions are delivered by highly trained experts
+      to meet the ever changing business needs
   - icon: ion-iphone
     name: App Development
     content: We have the excellence to provide customized mobile apps that would match
       your business needs & specifications
-  - icon: ion-bug
-    name: Start Up
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
-  - icon: ion-headphone
-    name: Logo Design
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
-  - icon: ion-leaf
-    name: Development
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+  - icon: ion-ios-cog
+    name: Support
+    content: We provide post deployment support to ensure that solution is running
+      efficiently
 cta:
   enable: true
