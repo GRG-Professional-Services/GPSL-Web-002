@@ -42,8 +42,8 @@ service:
     name: Consultancy
     content: Consulting is a proces that helps us ensuring the solution, no matter
       how small or big, is delivered efficiently
-  - icon: ion-compass
-    name: Web Design
+  - icon: ion-code
+    name: Development
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut
   - icon: ion-image
