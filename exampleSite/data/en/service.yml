@@ -40,7 +40,7 @@ service:
   service_item:
   - icon: ion-ios-lightbulb
     name: Consultancy
-    content: Consulting is a proces that helps us ensuring the solution, no matter
+    content: Consulting is a process that helps us ensuring the solution, no matter
       how small or big, is delivered efficiently
   - icon: ion-code
     name: Development
