@@ -9,7 +9,6 @@
   <div class="container">
     <div class="row">
       <div class="col-md-12">
-        <div class="block">
           <h1>{{ .title | markdownify }}</h1>
           <h1>{{ .title2 | markdownify }}</h1>
           <h1>{{ .title3 | markdownify }}</h1>
@@ -20,7 +19,6 @@
           <a href="{{ .link | relLangURL }}" target="_blank" class="btn btn-main animated fadeInUp">{{ .label }}</a>
           {{ end }}
           {{ end }}
-        </div>
       </div>
     </div>
   </div>
