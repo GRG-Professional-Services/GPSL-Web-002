@@ -34,9 +34,7 @@ featured_service:
 service:
   enable: true
   title: Our Services
-  description: Far far away, behind the word mountains, far from the countries Vokalia
-    and Consonantia, <br> there live the blind texts. Separated they live in Bookmarksgrove
-    right at the coast of the Semantics
+  description: ''
   service_item:
   - icon: ion-ios-lightbulb
     name: Consultancy
@@ -52,7 +50,6 @@ service:
       to automate those repititive tasks to ensure business efficiency
   - icon: ion-ios-telephone
     name: Support
-    content: We provide post deployment support to ensure that solution is running
-      efficiently
+    content: In case you need us...
 cta:
   enable: true
