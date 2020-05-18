@@ -15,6 +15,5 @@ fields:
   label: bg image
   description: page header background image
 pages:
-- exampleSite/content/english/pages/terms-conditions.md
 - exampleSite/content/english/terms/terms-conditions.md
 - exampleSite/data/en/terms-conditions.md
