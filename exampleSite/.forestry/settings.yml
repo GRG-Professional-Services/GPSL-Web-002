@@ -110,6 +110,11 @@ sections:
   create: none
   match: "*"
 - type: directory
+  path: exampleSite/content/english/Privacy
+  label: Privacy Policy (en)
+  create: none
+  match: "*"
+- type: directory
   path: exampleSite/content/english/pages
   label: Created Pages (en)
   create: documents
