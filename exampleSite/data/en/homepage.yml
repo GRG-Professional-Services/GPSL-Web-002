@@ -31,7 +31,7 @@ portfolio:
     label: View Works
     link: project
 service:
-  enable: false
+  enable: true
 cta:
   enable: true
   bg_image: images/call-to-action-bg.jpg
