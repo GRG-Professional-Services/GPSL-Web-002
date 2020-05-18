@@ -20,6 +20,7 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [[menu.footer]]
+URL = "terms"
 name = "Terms & Conditions"
 weight = 7
 [[menu.footer]]
