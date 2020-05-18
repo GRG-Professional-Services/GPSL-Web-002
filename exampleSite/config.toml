@@ -37,9 +37,9 @@ name = "Contact"
 weight = 1
 [params]
 author = "GRG Professional Services Ltd."
-contact_form_action = "#"
+contact_form_action = "contact"
 description = "GRG | consultancy | creativity | communication | collaboration"
-email = "admin@grgprofessionalservices.uk"
+email = "gaurav.garg@is4u.co.uk"
 google_analitycs_id = ""
 location = "GRG Professional Services Ltd., 20-22 Wenlock Road, LONDON, N1 7GU"
 logo = "images/logo.png"
