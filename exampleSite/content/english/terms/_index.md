@@ -18,7 +18,7 @@ You must be at least 18 years of age to use this Website. By using the Website a
 
 2\. You may, for your own personal, non-commercial use only, do the following:
 
-  a. retrieve, display and view the Content on a computer screen
+   a. retrieve, display and view the Content on a computer screen
 
   b. print one copy of the Content
 
