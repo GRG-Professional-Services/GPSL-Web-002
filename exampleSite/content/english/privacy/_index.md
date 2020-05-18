@@ -14,10 +14,12 @@ This privacy policy should be read alongside, and in addition to, our Terms and 
 
 1\. In this privacy policy, the following definitions are used:
 
-| --- | --- |
-| Data | collectively all information that you submit to GRG Professional Services Ltd. via the Website. This definition incorporates, where applicable, the definitions provided in the Data Protection Laws; |
-| Data Protection Laws | any applicable law relating to the processing of personal Data, including but not limited to the Directive 96/46/EC (Data Protection Directive) or the GDPR, and any national implementing laws, regulations and secondary legislation, for as long as the GDPR is effective in the UK; |
-| GDPR | the General Data Protection Regulation (EU) 2016/679; |
+
+	Data: collectively all information that you submit to GRG Professional Services Ltd. via the Website. This definition incorporates, where applicable, the definitions provided in the Data Protection Laws;
+	---
+	Data Protection Laws: any applicable law relating to the processing of personal Data, including but not limited to the Directive 96/46/EC (Data Protection Directive) or the GDPR, and any national implementing laws, regulations and secondary legislation, for as long as the GDPR is effective in the UK;
+	---
+	GDPR | the General Data Protection Regulation (EU) 2016/679; |
 | GRG Professional Services Ltd.,  we or us | GRG Professional Services Ltd., a company incorporated in England and Wales with registered number 10332343 whose registered office is at 20-22 Wenlock Road, London, N1 7GU; |
 | User or you | any third party that accesses the Website and is not either (i) employed by GRG Professional Services Ltd. and acting in the course of their employment or (ii) engaged as a consultant or otherwise providing services to GRG Professional Services Ltd. and accessing the Website in connection with the provision of such services; and |
 | Website | the website that you are currently using, www.grgprofessionalservices.uk, and any sub-domains of this site unless expressly excluded by their own terms and conditions. |
