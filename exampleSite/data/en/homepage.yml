@@ -17,6 +17,8 @@ about:
     GRG professional services are independent technical consultants, providing bespoke development and process automation to improve business efficiency.
 
     We offer a complete solution (design, development, implementation and support) focused in automated document data extraction, digital mail room, invoice capture, Smart Process Application (SPA) and eCommerce (incl. incentive schemes).
+
+    Our service includes a comprehensive consultation to help identify gaps and  opportunities, a comprehensive report that includes a project plan with  timelines and milestones, a cost analysis, and a schedule. We also offer  a suite of quality products that will help you get there quickly and  smoothly. That’s how we ensure your success.
   image: images/wrapper-img.png
 portfolio:
   enable: true
@@ -26,6 +28,8 @@ portfolio:
     Crafting Creative Consultancy through Communication and Collaboration
 
     Like a chisel in it's various forms is used to shape/craft, our consultancy acts like a chisel to shape a solution that it is scalable, efficient and fulfills all business requirements.
+
+    After 20 years in the industry, we decided to alter direction. Now, we share our passion by helping others. Our ramp up process is designed to empower your team.
   button:
     enable: false
     label: View Works
@@ -36,12 +40,10 @@ cta:
   enable: true
   bg_image: images/call-to-action-bg.jpg
   title: We produce delightful digital experiences.
-  content: In the fast moving world of Information technology, we believe that we
-    are different from our contemporaries because we are passionate about computing
-    technology and love to take up projects that challenge our traditional ways of
-    working. We are always on the lookout for the latest happenings in the field and
-    jump on to everything that we feel would turn out to be the next big thing in
-    the computer world.
+  content: |-
+    In the fast moving world of Information technology, we believe that we are different from our contemporaries because we are passionate about computing technology and love to take up projects that challenge our traditional ways of working. We are always on the lookout for the latest happenings in the field and jump on to everything that we feel would turn out to be the next big thing in the computer world.
+
+    Our ramp up process is designed  to empower your team and outfit them with the tools they need to  succeed. Talk to us today about how we can support your growth, limit  your turnover, and put you on a solid track to success and profit.
   button:
     enable: true
     label: Tell Us Your Story
