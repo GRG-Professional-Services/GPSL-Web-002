@@ -16,4 +16,3 @@ fields:
   description: page header background image
 pages:
 - exampleSite/content/english/terms/terms-conditions.md
-- exampleSite/data/en/terms-conditions.md
