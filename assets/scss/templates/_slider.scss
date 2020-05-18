@@ -3,7 +3,7 @@
   background-size: cover;
   background-attachment: fixed;
   background-position: center center;
-  padding: 170px 0 200px;
+  padding: 50px 0 50px;
   position: relative;
   @extend .overly;
   @include tablet {
@@ -20,9 +20,7 @@
     h1 {
       font-weight: bold;
       font-size: 45px;
-      line-height: 60px;
       letter-spacing: 10px;
-      padding-bottom: 15px;
       text-transform: uppercase;
     }
 
