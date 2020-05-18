@@ -77,7 +77,7 @@ link = "plugins/shuffle/shuffle.min.js"
 link = "plugins/google-map/gmap.js"
 [params.preloader]
 enable = true
-preloader = "images\\logo.png"
+preloader = "images/logo.png"
 [[params.social]]
 icon = "ion-social-googleplus-outline"
 link = "#"
