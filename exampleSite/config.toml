@@ -37,7 +37,7 @@ name = "Contact"
 weight = 1
 [params]
 author = "GRG Professional Services Ltd."
-contact_form_action = ""
+contact_form_action = "https://formspree.io/mbjzdylj"
 description = "GRG | consultancy | creativity | communication | collaboration"
 email = "admin@grgprofessionalservices.uk"
 google_analitycs_id = ""
