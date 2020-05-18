@@ -18,9 +18,8 @@ You must be at least 18 years of age to use this Website. By using the Website a
 
 2\. You may, for your own personal, non-commercial use only, do the following:
 
-a. retrieve, display and view the Content on a computer screen
-
-b. print one copy of the Content
+* retrieve, display and view the Content on a computer screen
+* print one copy of the Content
 
 3\. You must not otherwise reproduce, modify, copy, distribute or use for commercial purposes any Content without the written permission of GRG Professional Services Ltd.
 
@@ -28,11 +27,9 @@ b. print one copy of the Content
 
 4\. You may not use the Website for any of the following purposes:
 
-a. in any way which causes, or may cause, damage to the Website or interferes with any other person's use or enjoyment of the Website;
-
-b. in any way which is harmful, unlawful, illegal, abusive, harassing, threatening or otherwise objectionable or in breach of any applicable law, regulation, governmental order;
-
-c. making, transmitting or storing electronic copies of Content protected by copyright without the permission of the owner.
+* in any way which causes, or may cause, damage to the Website or interferes with any other person's use or enjoyment of the Website;
+* in any way which is harmful, unlawful, illegal, abusive, harassing, threatening or otherwise objectionable or in breach of any applicable law, regulation, governmental order;
+* making, transmitting or storing electronic copies of Content protected by copyright without the permission of the owner.
 
 **Privacy Policy**
 
@@ -56,11 +53,9 @@ c. making, transmitting or storing electronic copies of Content protected by cop
 
 12\. To the maximum extent permitted by law, GRG Professional Services Ltd accepts no liability for any of the following:
 
-a. any business losses, such as loss of profits, income, revenue, anticipated savings, business, contracts, goodwill or commercial opportunities;
-
-b. loss or corruption of any data, database or software;
-
-c. any special, indirect or consequential loss or damage.
+* any business losses, such as loss of profits, income, revenue, anticipated savings, business, contracts, goodwill or commercial opportunities;
+* loss or corruption of any data, database or software;
+* any special, indirect or consequential loss or damage.
 
 **General**
 
