@@ -41,12 +41,12 @@ contact_form_action = "#"
 description = "GRG | consultancy | creativity | communication | collaboration"
 email = "admin@grgprofessionalservices.uk"
 google_analitycs_id = ""
-location = "London, United Kingdom"
+location = "GRG Professional Services Ltd., 20-22 Wenlock Road, LONDON, N1 7GU"
 logo = "images/logo.png"
 mobile = ""
 multi_author = false
 [params.gmap]
-enable = true
+enable = false
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
 map_latitude = "51.5223477"
 map_longitude = "-0.1622023"
