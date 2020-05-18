@@ -1,7 +1,8 @@
 ---
 title: Terms & Conditions
-description: ''
+description: 'test'
+draft: false
 bg_image: images/featue-bg.jpg
-
 ---
+
 test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test
