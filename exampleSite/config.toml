@@ -20,6 +20,9 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [[menu.footer]]
+name = "Terms & Conditions"
+weight = 7
+[[menu.footer]]
 URL = "contact"
 name = "Contact"
 weight = 6
@@ -44,19 +47,19 @@ URL = "about"
 name = "About"
 weight = 1
 [[menu.main]]
-URL = "about"
-name = "About"
-weight = 1
+URL = "faq"
+name = "FAQ"
+parent = "Pages"
+weight = 2
 [[menu.main]]
 URL = "pricing"
 name = "Pricing"
 parent = "Pages"
 weight = 1
 [[menu.main]]
-URL = "faq"
-name = "FAQ"
-parent = "Pages"
-weight = 2
+URL = "about"
+name = "About"
+weight = 1
 [[menu.main]]
 URL = "contact"
 name = "Contact"
