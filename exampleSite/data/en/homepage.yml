@@ -35,16 +35,19 @@ service:
 cta:
   enable: true
   bg_image: images/call-to-action-bg.jpg
-  title: We design delightful digital experiences.
-  content: Read more about what we do and our philosophy of design. Judge for yourself
-    The work and results <br> we’ve achieved for other clients, and meet our highly
-    experienced Team who just love to design.
+  title: We produce delightful digital experiences.
+  content: In the fast moving world of Information technology, we believe that we
+    are different from our contemporaries because we are passionate about computing
+    technology and love to take up projects that challenge our traditional ways of
+    working. We are always on the lookout for the latest happenings in the field and
+    jump on to everything that we feel would turn out to be the next big thing in
+    the computer world.
   button:
     enable: true
     label: Tell Us Your Story
     link: contact
 funfacts:
-  enable: true
+  enable: false
   title: Fun Facts About Us
   description: "'Far far away, behind the word mountains, far from the countries Vokalia
     and Consonantia, <br> there live the blind texts. Separated they live in Bookmarksgrove
