@@ -2,10 +2,10 @@
 banner:
   enable: true
   bg_image: images/slider-bg.jpg
-  title: consultancy;
-  title2: creativity;
-  title3: communication;
-  title4: collaboration.
+  title: consultancy
+  title2: creativity
+  title3: communication
+  title4: collaboration
   content: Helping customers be their best in the moments that matter. We work closely
     with our clients to deliver  the best possible solutions for their needs
   button:
