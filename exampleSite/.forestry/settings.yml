@@ -110,8 +110,13 @@ sections:
   create: none
   match: "*"
 - type: directory
-  path: exampleSite/content/english/Privacy
+  path: exampleSite/content/english/privacy
   label: Privacy Policy (en)
+  create: none
+  match: "*"
+- type: directory
+  path: exampleSite/content/english/kofax
+  label: Kofax (en)
   create: none
   match: "*"
 - type: directory
