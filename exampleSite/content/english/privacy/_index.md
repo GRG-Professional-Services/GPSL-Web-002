@@ -1,7 +1,7 @@
 ---
 title: Privacy Policy
 description: ''
-bg_image: images/featue-bg.jpg
+bg_image: images/blog/blog-post-5.jpg
 
 ---
 This privacy policy applies between you, the User of this Website and GRG Professional Services Ltd., the owner and provider of this Website. GRG Professional Services Ltd. takes the privacy of your information very seriously. This privacy policy applies to our use of any and all Data collected by us or provided by you in relation to your use of the Website.
