@@ -1,7 +1,7 @@
 ---
 title: Terms & Conditions of use
 description: ''
-bg_image: images/featue-bg.jpg
+bg_image: images/blog/blog-post-4.jpg
 
 ---
 **Introduction**
